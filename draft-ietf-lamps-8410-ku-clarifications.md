@@ -59,7 +59,7 @@ Security Considerations
 =
 
 This document introduces no new security considerations beyond those found in
-{{RFC8410}}.
+{{!RFC8410}}.
 
 IANA Considerations
 =
